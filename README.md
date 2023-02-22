@@ -6,7 +6,7 @@ Data Location - The dataset files can be accessed and downloaded from https://da
 
 Data Source - TMDB
 
-![TMDB1024_1.png](http://localhost:8888/view/TMDB1024_1.png)
+![png](http://localhost:8888/view/TMDB1024_1.png)
 
 IMDb Dataset Details -
 
