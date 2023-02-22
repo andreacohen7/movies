@@ -19,7 +19,7 @@ Produce a Linear Regression model to predict movie performance.
 Data:
 Data Location - The dataset files can be accessed and downloaded from https://datasets.imdbws.com/. The data is refreshed daily.
 Data Source - TMDB
-![TMDB.pdf](http://localhost:8888/files/TMDB.pdf)
+![TMDB.pdf](TMDB.pdf)
 IMDb Dataset Details -
 title.akas.tsv.gz -
 Contains the following information for titles:
